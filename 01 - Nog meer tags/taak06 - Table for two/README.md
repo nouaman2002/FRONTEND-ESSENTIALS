@@ -17,8 +17,8 @@ Dat ziet er dan zo uit:
 ```html
 
 <table>
-    <thead>
-        <tr>
+
+<tr>
             <th>Voornaam</th>
             <th>Achternaam</th>
         </tr>
